@@ -1,0 +1,5 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\juanj\OneDrive\Desktop\Universidad\semestre 5\Computacion Grafica\GLSL_Lighting\main.cpp(61,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juanj\OneDrive\Desktop\Universidad\semestre 5\Computacion Grafica\GLSL_Lighting\main.cpp(67,27): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  TemplateProject.vcxproj -> C:\Users\juanj\OneDrive\Desktop\Universidad\semestre 5\Computacion Grafica\GLSL_Lighting\Debug\TemplateProject.exe
